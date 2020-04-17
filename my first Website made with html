@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<Head><title> My Website </title>
+</head>
+<body><h1>First website/(page) made with html</h1>
+ <h2> Only a testing line</h2><h3>and it works</h3><p style="color:#FF0000";>Red testing line</p><h3>and it works</h3><p style="color:#00FF00 ";>Green testing line</p><h3>works too</h3>
+ in order to make a Paragraph use code:<(br)><br>
+ elsewise,
+ this happens<br>(tried to get this happens as a single paragraph)<br><br>
+ <strong> Fat writing test, without heading code</strong><br><br><a href="https://www.w3schools.com/html/">Visit some good HTML tutorials</a></body>
+ 
+</html>
